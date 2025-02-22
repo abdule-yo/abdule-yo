@@ -11,7 +11,7 @@ I'm Abdule Y., freelance fullstack developer.
 ## 💻 Coding with...
 
 ![JavaScript](https://i.pinimg.com/474x/69/e2/b3/69e2b3be6001c33141a95557a5f2cbcd.jpg)
-![TypeScript](https://i.pinimg.com/474x/5c/88/9d/5c889d33114df76e3cb00bc5897a3abe.jpg)
+![TypeScript](https://camo.githubusercontent.com/d4cfec9550517aa67567e29843e3880ebf50bd7eeceafcd3b82875f17c9f564e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747970657363726970742d2532333030374143432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465)
 ![Node.js](https://i.pinimg.com/474x/cc/de/d2/ccded25b6b35c689e9724ed483326d0f.jpg)
 ![Go](https://i.pinimg.com/736x/09/ce/62/09ce62889fc7b51ee68835ac7a2340f8.jpg)
 ![NPM](https://i.pinimg.com/474x/21/4c/1a/214c1a4cc0c2197d4c99470a79446e77.jpg)
