@@ -11,7 +11,7 @@ I'm passionate about creating innovative solutions and building meaningful conne
 - Current Focus: Full-stack Development & Mobile App Creation
 - Fun fact: I can debug code while solving Rubik's cubes! 🎯
 
-**Discover my work:** [Portfolio](https://abdule.nexlogik.io)
+**Discover my work:** [About me](https://abdule.nexlogik.io)
 
 #### Development Stack
 
