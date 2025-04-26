@@ -4,16 +4,16 @@
  / ___ \   | |  
 /_/   \_\  |_|  </pre>
 
-Greetings!
+Welcome to my digital space! 🚀
 
-All my work are open source.
+I'm passionate about creating innovative solutions and building meaningful connections in the tech community.
 
-- Preferred titles: Self-Taught Innovator
-- Fun fact: I am a self taught innovator and community builder with expertise in system programming and public speaking!
+- Current Focus: Full-stack Development & Mobile App Creation
+- Fun fact: I can debug code while solving Rubik's cubes! 🎯
 
-**Explore my world:** [Abdule Y.](https://abdule.nexlogik.io)
+**Discover my work:** [Portfolio](https://abdule.nexlogik.io)
 
-#### Tech Preferences
+#### Development Stack
 
 |     | **Category**         | **Preference**                                            |
 | --- | -------------------- | --------------------------------------------------------- |
@@ -21,10 +21,10 @@ All my work are open source.
 | 🐧  | **Terminal**         | [Hyper](https://hyper.is/)                                |
 | 📝  | **Editor**           | [Visual Studio Code](https://github.com/Microsoft/vscode) |
 
-#### Contact
+#### Connect With Me
 
-You can find me on Twitter/X [@abdule_yo](https://x.com/abdule_yo) - Ask me about **web development**, mobile development, my projects, open source, anything!
+Find me on Twitter [@abdule_yo](https://x.com/abdule_yo) - Let's discuss web development, mobile apps, or any tech topic that interests you!
 
-Warm regards,
+Best regards,
 
 Abdule Y.
