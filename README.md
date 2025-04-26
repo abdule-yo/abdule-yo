@@ -1,36 +1,30 @@
-# Hi there 👋
+<pre>    _    __   __
+   / \   \ \ / /
+  / _ \   \ V / 
+ / ___ \   | |  
+/_/   \_\  |_|  </pre>
 
-I'm Abdule Y., freelance fullstack developer.
+Greetings!
 
-💼 Currently working @eBalamiapp
+All my work are open source.
 
-🌐 Let's connect!
+- Preferred titles: Self-Taught Innovator
+- Fun fact: I am a self taught innovator and community builder with expertise in system programming and public speaking!
 
-[![LinkedIn](https://www.linkedin.com/in/abdule-yousuf-803500248/)
+**Explore my world:** [Abdule Y.](https://abdule.nexlogik.io)
 
-## 💻 Coding with...
+#### Tech Preferences
 
-![JavaScript](https://i.pinimg.com/474x/69/e2/b3/69e2b3be6001c33141a95557a5f2cbcd.jpg)
-![TypeScript](https://camo.githubusercontent.com/d4cfec9550517aa67567e29843e3880ebf50bd7eeceafcd3b82875f17c9f564e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747970657363726970742d2532333030374143432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465)
-![Node.js](https://i.pinimg.com/474x/cc/de/d2/ccded25b6b35c689e9724ed483326d0f.jpg)
-![Go](https://i.pinimg.com/736x/09/ce/62/09ce62889fc7b51ee68835ac7a2340f8.jpg)
-![NPM](https://i.pinimg.com/474x/21/4c/1a/214c1a4cc0c2197d4c99470a79446e77.jpg)
-![Docker](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv6kZKNTyXVPRrqPOfQOjHCWaLxfX7784FKg&s)
+|     | **Category**         | **Preference**                                            |
+| --- | -------------------- | --------------------------------------------------------- |
+| 🖥   | **Operating System** | [macOS](https://www.apple.com/macos/)                     |
+| 🐧  | **Terminal**         | [Hyper](https://hyper.is/)                                |
+| 📝  | **Editor**           | [Visual Studio Code](https://github.com/Microsoft/vscode) |
 
+#### Contact
 
-## 🎨 Frontend Stack
-![React Js](https://i.pinimg.com/474x/10/d0/94/10d09404c5d16a0c6760965d41feb960.jpg)
-![Next.js](https://i.pinimg.com/474x/3f/f5/f9/3ff5f96fafaf0dacf5e6a8e69072f2dc.jpg)
-![Redux](https://i.pinimg.com/474x/f7/9a/93/f79a9399e188fce8f0c56645eeafe338.jpg)
-![TailwindCSS](https://i.pinimg.com/474x/5e/42/c9/5e42c926feb229f934d3089d89c26e2f.jpg)
+You can find me on Twitter/X [@abdule_yo](https://x.com/abdule_yo) - Ask me about **web development**, mobile development, my projects, open source, anything!
 
-## ⚙️ Backend Stack
+Warm regards,
 
-![Nest Js](https://i.pinimg.com/474x/1f/15/d8/1f15d89430d0d80c32f90998b5793433.jpg)
-![Express Js](https://i.pinimg.com/474x/40/e9/7a/40e97aae3a908371bbd98e3fa4cc845c.jpg)
-![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Zod](data:image/png;base64,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)
-
-## 🌱 Currently learning...
-
-![AWS](https://i.pinimg.com/474x/48/e0/f3/48e0f3e95f00646880441f490bf008f5.jpg)
+Abdule Y.
